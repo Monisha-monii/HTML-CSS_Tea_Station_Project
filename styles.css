@@ -167,7 +167,7 @@ a
 .header
 {
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/main-bcg.jpg") center/cover no-repeat fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/main-bcg.jpeg") center/cover no-repeat fixed;
 }
 
 /* banner */
